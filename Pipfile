@@ -8,6 +8,10 @@ pytest = "*"
 autopep8 = "*"
 
 [packages]
+requests = "*"
+bs4 = "*"
+lxml = "*"
+pytest = "*"
 
 [requires]
 python_version = "3.6"
