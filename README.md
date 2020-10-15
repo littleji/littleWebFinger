@@ -6,7 +6,7 @@ based on  [TideFinger](https://github.com/TideSec/TideFinger) web app cms  finge
 ```
 $ python TideFinger.py
 
-    Usage: python TideFinger.py -u http://www.123.com [-p 1] [-m 50] [-t 5]
+    Usage: python littlejiFinger.py -u http://www.123.com [-p 1] [-m 50] [-t 5]
 
     -u: URL 
     -p: When specifying this option to 1,  proxy detection will be enabled. Please ensure that the proxy file "proxys_ips.txt", with one proxy per line, in the format: 124.225.223.101:80
