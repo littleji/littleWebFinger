@@ -4,7 +4,7 @@ based on  [TideFinger](https://github.com/TideSec/TideFinger) web app cms  finge
 # How to use
 
 ```
-$ python TideFinger.py
+$ python littlejiFinger.py
 
     Usage: python littlejiFinger.py -u http://www.123.com [-p 1] [-m 50] [-t 5]
 
